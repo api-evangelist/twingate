@@ -55,9 +55,9 @@ common:
     url: https://www.twingate.com/docs
   - type: Pricing
     url: https://www.twingate.com/pricing
-  - type: Sign Up
+  - type: SignUp
     url: https://auth.twingate.com/signup
-  - type: GitHub Organization
+  - type: GitHubOrganization
     url: https://github.com/Twingate
   - type: Terraform Provider
     url: https://registry.terraform.io/providers/Twingate/twingate/latest
