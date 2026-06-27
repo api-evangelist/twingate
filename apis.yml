@@ -43,7 +43,7 @@ apis:
   properties:
   - type: Documentation
     url: https://www.twingate.com/docs/api
-  - type: GraphQL Schema
+  - type: GraphQLSchema
     url: https://www.twingate.com/docs/api/queries
   - type: Terraform Provider
     url: https://registry.terraform.io/providers/Twingate/twingate/latest/docs
@@ -57,7 +57,7 @@ common:
   url: https://www.twingate.com/docs
 - type: Pricing
   url: https://www.twingate.com/pricing
-- type: SignUp
+- type: Signup
   url: https://auth.twingate.com/signup
 - type: GitHubOrganization
   url: https://github.com/Twingate
