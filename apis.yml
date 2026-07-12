@@ -51,6 +51,8 @@ apis:
   - url: graphql/twingate-graphql.md
     type: GraphQL
 common:
+- type: DomainSecurity
+  url: security/twingate-domain-security.yml
 - type: Website
   url: https://www.twingate.com
 - type: Documentation
@@ -70,3 +72,5 @@ common:
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
+- type: Blog
+  url: https://rss.app/feeds/GvWVHBYxRfO2ER9k.xml
