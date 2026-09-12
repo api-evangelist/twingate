@@ -2,23 +2,21 @@
   "repo": "twingate",
   "feeds": [
     {
-      "source": "https://rss.app/feeds/GvWVHBYxRfO2ER9k.xml",
-      "feed_url": "https://rss.app/feeds/GvWVHBYxRfO2ER9k.xml",
-      "title": "",
-      "saved": 0,
-      "method": "feed",
-      "nature": "vendor-blog",
-      "nature_basis": "path_blog"
-    },
-    {
       "source": "https://www.linkedin.com/company/twingate",
       "feed_url": "https://www.linkedin.com/company/twingate",
       "title": "",
       "saved": 0,
       "method": "none"
+    },
+    {
+      "source": "https://rss.app/feeds/GvWVHBYxRfO2ER9k.xml",
+      "feed_url": "https://rss.app/feeds/GvWVHBYxRfO2ER9k.xml",
+      "title": "",
+      "saved": 0,
+      "method": "feed"
     }
   ],
-  "fetched": "2026-08-30T22:33:40Z",
+  "fetched": "2026-09-06T19:17:18Z",
   "post_count": 42,
   "feed_nature": "vendor-blog",
   "feed_nature_basis": "path_blog",
