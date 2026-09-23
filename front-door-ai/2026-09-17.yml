@@ -1,0 +1,29 @@
+# Front Door AI Index — twingate — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: twingate
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: www.twingate.com
+  final_host: www.twingate.com
+  ownership: own
+  owner: twingate
+  shares_host_with: null
+  inherited_from: null
+  verdict: scored
+  score: 6
+  host_score: 6
+  density: 1.66
+  words: 3620
+  tiers:
+    agentic: 3
+    core: 3
+    model: 0
+  ambiguous: 10
+  top_terms:
+    agent: 4
+    AI agent: 3
+    AI: 3
+    automation: 3
+    intelligence: 3
